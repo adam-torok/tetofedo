@@ -5,7 +5,7 @@
     <div class="item-content">
         <div class="big-text">Elérhetőek vagyunk</div>
         <div class="sub-text">Minőségi munka, Minőségi technika, Teljes garancia.</div>
-        <a href="#" class="item-btn">Hívjon minket</a>
+        <a href="tel:+36205819710" class="item-btn">Hívjon minket</a>
     </div>
 </div>
 </div>

@@ -18,15 +18,15 @@
     <div class="row">
       <div class="col-12">
       <div class="breadcrumbs-area">
-        <h1>Garázsbeálló készítése</h1>
+        <h1>Ácsmunkák</h1>
         <ul>
         <li>
-          <a href="index.html">Kezdőlap</a>
+          <a href="index.php">Kezdőlap</a>
         </li>
         <li>
-          <a href="service1.html">Szolgáltatásaink</a>
+          <a href="services.php">Szolgáltatásaink</a>
         </li>
-        <li>Garázsbeálló készítése</li>
+        <li>Ácsmunkák</li>
         </ul>
       </div>
       </div>
@@ -38,16 +38,16 @@
     <div class="zoom-gallery-box">
       <div class="tab-content">
       <div class="tab-pane fade show active" id="related1" role="tabpanel">
-        <img class="zoom_01" src="img/references/ref1.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+        <img class="zoom_01" src="img/carpenter1.jpg" data-zoom-image="img/carpenter1.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related2" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref2.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carpenter2.jpg" data-zoom-image="img/carpenter2.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related3" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref3.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carpenter3.jpg" data-zoom-image="img/carpenter3.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related4" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref4.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carpenter4.jpg" data-zoom-image="img/carpenter4.jpg" alt="service">
       </div>
       </div>
       <ul style="display: flex;
@@ -56,22 +56,22 @@
   flex-flow: column;" class="nav nav-tabs tab-nav-list" role="tablist">
       <li class="nav-item">
         <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-        <img style="width: 200px" src="img/references/ref1.jpg" alt="related1">
+        <img style="width: 200px" src="img/carpenter1.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref2.jpg" alt="related1">
+        <img style="width: 200px" src="img/carpenter2.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref3.jpg" alt="related1">
+        <img style="width: 200px" src="img/carpenter3.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref4.jpg" alt="related1">
+        <img style="width: 200px" src="img/carpenter4.jpg" alt="related1">
         </a>
       </li>
       </ul>
@@ -81,11 +81,11 @@
       <div class="single-service-box-layout1">
         <div class="item-content">
         <div class="item-info">
-          <div class="item-subtitle">Tetőt keres? Szeretne már végre megszabadulni a régi tető által okozott örökös gondoktól, vagy új házba költözik és teljes tetőrendszerre van szüksége? Akkor jó helyen jár!</div>
-          <p>Az összeszokott, megbízható, kiválóan szakképzett csapatban dolgozó szakemberekkel végezzük el országszerte a ránk bízott tetőszerelést, felújítást.
+          <div class="item-subtitle">Ácsokat keres? Szeretne új faszerkezetet a tetőjének, esetleg új házba költözik és tetőszerkezetre van szüksége? Hívjon minket!</div>
+          <p>Az összeszokott, megbízható, kiválóan szakképzett csapatban dolgozó szakemberekkel végezzük el országszerte a ránk bízott ácsmunkát.
           </p>
           <div class="item-subtitle">Legyen szó bármilyen tetőről, ha minőségi munkát szeretne kedvező áron, hívjon bátran minket!</div>
-          <p>A tetőnek az épület szépségét kell kiemelnie. A olyan tetőfedési megoldásokat kínálunk mely a színek, alapanyagok és formák széles választékát kínálja, ezért jól talál bármilyen jellegű építményhez, és összhangba hozható az építészeti stílussal.</p>
+          <p>A tetőnek az épület esztitékáját kell kiemelnie. Mi olyan tetőfedési megoldásokat kínálunk mely különböző színek, minőségi alapanyagok széles választékát kínálja, és összhangba hozza az építészeti stílussal.</p>
         </div>
         <div class="more-info">
           <div class="row">
@@ -125,7 +125,17 @@
           </div>
           </div>
         </div>
-        <?php include_once('components/Benefits.php')?>
+        <div class="item-services">
+  <h3 class="item-title">Előnyök</h3>
+  <div class="service-list">
+  <ul>
+    <li><i class="fas fa-check"></i>Precíz, gyors munkavégzéssel biztosítjuk Ügyfelünk elégedettségét</li>
+    <li><i class="fas fa-check"></i>Garanciát vállalunk minden munkánkra, hiszen nekünk az Ügyfél az első</li>
+    <li><i class="fas fa-check"></i>Minőségi anyagok felhasználásával biztosítjuk a hosszú élettartamot</li>
+  </ul>
+  </div>
+  <p></p>
+</div>
         <div class="item-gallery">
           <h3 class="item-title">Nézze meg referencia munkáinkat!</h3>
           <p>Önnek mit is jelent általában vagy éppen a tetőfelújítás esetén a gazdaságosság?

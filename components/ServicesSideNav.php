@@ -11,13 +11,13 @@
           <a href="roof-patch.php"><i class="fas fa-long-arrow-alt-right"></i>Cserepes tetőfedés</a>
           </li>
           <li>
-          <a href="roof-patch.php"><i class="fas fa-long-arrow-alt-right"></i>Állókorcos tetőfedés</a>
+          <a href="plate.php"><i class="fas fa-long-arrow-alt-right"></i>Állókorcos tetőfedés</a>
           </li>
           <li>
-          <a href="roof-patch.php"><i class="fas fa-long-arrow-alt-right"></i>Ereszcsatorna felújítása</a>
+          <a href="gutter_repair.php"><i class="fas fa-long-arrow-alt-right"></i>Ereszcsatorna felújítása</a>
           </li>
           <li>
-          <a href="roof-patch.php"><i class="fas fa-long-arrow-alt-right"></i>Ereszcsatorna tisztítása</a>
+          <a href="gutter_cleaning.php"><i class="fas fa-long-arrow-alt-right"></i>Ereszcsatorna tisztítása</a>
           </li>
           <li> 
           <a href="tinning.php"><i class="fas fa-long-arrow-alt-right"></i>Bádogozás</a>

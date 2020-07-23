@@ -2,27 +2,16 @@
 <html class="no-js" lang="">
 <?php include_once("components/Meta.php")?>
 <body class="sticky-header">
-    <!--[if lte IE 9]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-    <!-- ScrollUp Start Here -->
     <a href="#wrapper" data-type="section-switch" class="scrollup">
         <i class="fas fa-angle-double-up"></i>
     </a>
-    <!-- ScrollUp End Here -->
-    <!-- Preloader Start Here -->
     <div id="preloader"></div>
-    <!-- Preloader End Here -->
     <div id="wrapper" class="wrapper">
-        <!-- Add your site or application content here -->
-        <!-- Header Area Start Here -->
         <header class="header">
             <div id="rt-sticky-placeholder"></div>
             <?php include_once("components/Header.php");?>
             </div>
         </header>
-        <!-- Header Area End Here -->
-        <!-- Inne Page Banner Area Start Here -->
         <section class="inner-page-banner bg-common" data-bg-image="img/roof2.jpg">
             <div class="container">
                 <div class="row">
@@ -40,8 +29,6 @@
                 </div>
             </div>
         </section>
-        <!-- Inne Page Banner Area End Here --> 
-        <!-- About Us Area Start Here --> 
         <section class="about-wrap-layout6">
             <div class="container">
                 <div class="row justify-content-center">
@@ -54,8 +41,6 @@
                 </div>
             </div>
         </section>
-        <!-- About Us Area End Here --> 
-        <!-- About Us Area Start Here --> 
         <section class="about-wrap-layout7 bg-shape-2">
             <div class="about-box-layout9">
                 <div class="single-item left-item">
@@ -73,9 +58,6 @@
                 </div>
             </div>
         </section>
-        <!-- About Us Area End Here --> 
-        <!-- Why Choose Area Start Here -->
-        
         <section class="why-choose-wrap-layout1">
             <div class="container">
                 <div class="heading-layout1">

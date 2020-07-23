@@ -22,10 +22,10 @@
             cserepes tetőfedés </h1>
               <ul>
                 <li>
-                  <a href="index.html">Kezdőlap</a>
+                  <a href="index.php">Kezdőlap</a>
                 </li>
                 <li>
-                  <a href="service1.html">Szolgáltatásaink</a>
+                  <a href="services.php">Szolgáltatásaink</a>
                 </li>
                 <li>Cserepes tetőfedés</li>
               </ul>

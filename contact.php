@@ -6,27 +6,16 @@
 </head>
 
 <body class="sticky-header">
-    <!--[if lte IE 9]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-    <!-- ScrollUp Start Here -->
     <a href="#wrapper" data-type="section-switch" class="scrollup">
         <i class="fas fa-angle-double-up"></i>
     </a>
-    <!-- ScrollUp End Here -->
-    <!-- Preloader Start Here -->
     <div id="preloader"></div>
-    <!-- Preloader End Here -->
     <div id="wrapper" class="wrapper">
-        <!-- Add your site or application content here -->
-        <!-- Header Area Start Here -->
         <header class="header">
             <div id="rt-sticky-placeholder"></div>
                 <?php include_once("components/Header.php");?>
             </div>
         </header>
-        <!-- Header Area End Here -->
-        <!-- Inne Page Banner Area Start Here -->
         <section class="inner-page-banner bg-common" data-bg-image="img/roofer.jpg">
             <div class="container">
                 <div class="row">
@@ -44,8 +33,6 @@
                 </div>
             </div>
         </section>
-        <!-- Inne Page Banner Area End Here -->
-        <!-- Contact Page Area Start Here -->
         <section class="contact-wrap-layout2">
             <div class="container">
                 <div class="row">
@@ -99,7 +86,7 @@
                                 <div class="media-body space-md">
                                     <h4>Telefon:</h4>
                                     <ul>
-                                        <li>+36 30 922 3925</li>
+                                        <li>+36205819710</li>
                                     </ul>
                                 </div>
                             </div>
@@ -110,7 +97,7 @@
                                 <div class="media-body space-md">
                                     <h4>E-mail:</h4>
                                     <ul>
-                                        <li>info@csaba-tetofedo-badogos.hu</li>
+                                        <li>csabatetodoki@gmail.com</li>
                                     </ul>
                                 </div>
                             </div>

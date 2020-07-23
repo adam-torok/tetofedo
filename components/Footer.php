@@ -72,6 +72,6 @@
     </div>
   </div>
   <div class="footer-bottom-wrap-layout1">
-    <div class="copyright">© 2019. csaba-tetofedo-badogos.hu</div>
+    <div class="copyright">© 2020. csabatetodoki@gmail.com</div>
   </div>
 </footer>

@@ -21,10 +21,10 @@
         <h1>Garázsbeálló készítése</h1>
         <ul>
         <li>
-          <a href="index.html">Kezdőlap</a>
+          <a href="index.php">Kezdőlap</a>
         </li>
         <li>
-          <a href="service1.html">Szolgáltatásaink</a>
+          <a href="services.php">Szolgáltatásaink</a>
         </li>
         <li>Garázsbeálló készítése</li>
         </ul>
@@ -38,16 +38,16 @@
     <div class="zoom-gallery-box">
       <div class="tab-content">
       <div class="tab-pane fade show active" id="related1" role="tabpanel">
-        <img class="zoom_01" src="img/references/ref1.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+        <img class="zoom_01" src="img/carport1.jpg" data-zoom-image="img/carport1.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related2" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref2.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carport3.jpg" data-zoom-image="img/carport3.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related3" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref3.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carport2.jpg" data-zoom-image="img/carport2.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related4" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref4.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/carport4.jpg" data-zoom-image="img/carport4.jpg" alt="service">
       </div>
       </div>
       <ul style="display: flex;
@@ -56,22 +56,22 @@
   flex-flow: column;" class="nav nav-tabs tab-nav-list" role="tablist">
       <li class="nav-item">
         <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-        <img style="width: 200px" src="img/references/ref1.jpg" alt="related1">
+        <img style="width: 200px" src="img/carport1.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref2.jpg" alt="related1">
+        <img style="width: 200px" src="img/carport3.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref3.jpg" alt="related1">
+        <img style="width: 200px" src="img/carport2.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref4.jpg" alt="related1">
+        <img style="width: 200px" src="img/carport4.jpg" alt="related1">
         </a>
       </li>
       </ul>
@@ -81,11 +81,12 @@
       <div class="single-service-box-layout1">
         <div class="item-content">
         <div class="item-info">
-          <div class="item-subtitle">Tetőt keres? Szeretne már végre megszabadulni a régi tető által okozott örökös gondoktól, vagy új házba költözik és teljes tetőrendszerre van szüksége? Akkor jó helyen jár!</div>
-          <p>Az összeszokott, megbízható, kiválóan szakképzett csapatban dolgozó szakemberekkel végezzük el országszerte a ránk bízott tetőszerelést, felújítást.
+          <div class="item-subtitle">Óvjuk gépjárműnket!</div>
+          <p>Régebben az autó luxuscikknek számított, de manapság már szinte minden háztartás rendelkezik legalább egy gépjárművel. Mindennapi tevékenységeink részévé vált. Azzal járunk dolgozni, kirándulni a családdal, segítségével visszük gyermekeinket az iskolába, óvodába. Megvéd minket az esőtől, a hótól és a hidegtől, könnyen el tudunk jutni egyik helyről a másikra, egyszóval megkönnyíti életünket. 
           </p>
-          <div class="item-subtitle">Legyen szó bármilyen tetőről, ha minőségi munkát szeretne kedvező áron, hívjon bátran minket!</div>
-          <p>A tetőnek az épület szépségét kell kiemelnie. A olyan tetőfedési megoldásokat kínálunk mely a színek, alapanyagok és formák széles választékát kínálja, ezért jól talál bármilyen jellegű építményhez, és összhangba hozható az építészeti stílussal.</p>
+          <div class="item-subtitle">Garázsbeálló!</div>
+          <p>Sok helyen találkozhatunk fából készült kocsibeállóval. Ez abban az esetben is előnyös lehet, ha egy garázs megoldása utólag már nem kivitelezhető
+          </p>
         </div>
         <div class="more-info">
           <div class="row">
@@ -125,7 +126,22 @@
           </div>
           </div>
         </div>
-        <?php include_once('components/Benefits.php')?>
+        <div class="item-services">
+  <h3 class="item-title">Előnyök</h3>
+  <p>Amennyiben kis kerttel rendelkezünk, érdemes nyitott kocsibeállót választani. Az ilyen típusok akkor foglalnak helyet, amikor az autó bent áll. Ellenkező esetben más szabadidős tevékenységekre is használhatjuk. Kerti partik és kültéri hobbitevékenységek helyszíneként is kitűnően megfelel.
+
+
+</p>
+  <div class="service-list">
+  <ul>
+    <li><i class="fas fa-check"></i>Megépítése sokkal egyszerűbb, és kevesebb anyagot is igényel. </li>
+    <li><i class="fas fa-check"></i>Egy nyitott garázs jóval olcsóbb, mint a zárt típus.</li>
+    <li><i class="fas fa-check"></i>Az ilyen típus felépítéséért kevesebb munkadíjat kell fizetnünk, hamarabb elkészül. </li>
+    <li><i class="fas fa-check"></i> A megtámasztott típusokat akár más épület vagy kerítés mellé is lehet építeni.</li>
+  </ul>
+  </div>
+  <p></p>
+</div>
         <div class="item-gallery">
           <h3 class="item-title">Nézze meg referencia munkáinkat!</h3>
           <p>Önnek mit is jelent általában vagy éppen a tetőfelújítás esetén a gazdaságosság?

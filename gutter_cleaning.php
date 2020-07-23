@@ -18,7 +18,7 @@
         <div class="row">
           <div class="col-12">
             <div class="breadcrumbs-area">
-              <h1>Tetőtér beépítés</h1>
+              <h1>Ereszcsatorna tisztítása</h1>
               <ul>
                 <li>
                   <a href="index.php">Kezdőlap</a>
@@ -26,7 +26,7 @@
                 <li>
                   <a href="services.php">Szolgáltatásaink</a>
                 </li>
-                <li>Tetőtér beépítés</li>
+                <li>Ereszcsatorna tisztítása</li>
               </ul>
             </div>
           </div>
@@ -38,16 +38,16 @@
         <div class="zoom-gallery-box">
           <div class="tab-content">
             <div class="tab-pane fade show active" id="related1" role="tabpanel">
-              <img class="zoom_01" src="img/tetoter1.jpg" data-zoom-image="img/tetoter1.jpg" alt="service">
+              <img class="zoom_01" src="img/gutter2.jpg" data-zoom-image="img/gutter2.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="img/tetoter2.jpg" data-zoom-image="img/tetoter2.jpg" alt="service">
+            <img class="zoom_01" src="img/gutter11.jpg" data-zoom-image="img/gutter11.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="img/tetoter3.jpg" data-zoom-image="img/tetoter3.jpg" alt="service">
+            <img class="zoom_01" src="img/gutter9.jpg" data-zoom-image="img/gutter9.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="img/tetoter4.jpg" data-zoom-image="img/tetoter4.jpg" alt="service">
+            <img class="zoom_01" src="img/gutter10.jpeg" data-zoom-image="img/gutter10.jpeg" alt="service">
             </div>
           </div>
           <ul style="display: flex;
@@ -56,22 +56,22 @@
     flex-flow: column;" class="nav nav-tabs tab-nav-list" role="tablist">
             <li class="nav-item">
               <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img style="width: 200px" src="img/tetoter1.jpg" alt="related1">
+                <img style="width: 200px" src="img/gutter2.jpg" alt="related1">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/tetoter2.jpg" alt="related1">
+              <img style="width: 200px" src="img/gutter11.jpg" alt="related1">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/tetoter3.jpg" alt="related1">
+              <img style="width: 200px" src="img/gutter9.jpg" alt="related1">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/tetoter4.jpg" alt="related1">
+              <img style="width: 200px" src="img/gutter10.jpeg" alt="related1">
               </a>
             </li>
           </ul>
@@ -81,62 +81,30 @@
             <div class="single-service-box-layout1">
               <div class="item-content">
                 <div class="item-info">
-                  <div class="item-subtitle">Ingatlan értéknövelés</div>
-                  <p>Egy felújított, jó állapotú ingatlan értéknövekedésének eléréséhez érdemes tetőtér-bővítésen gondolkozni, ha az építészeti előírások szerint a hasznos terület növelését a földszinti alapterület bővítésével nem lehetséges megoldani, és a tető hajlásszöge megfelelő a tetőtér beépítéséhez.
+                  <div class="item-subtitle">Miért hasznos az eresztisztítás?</div>
+                  <p>A hagyományosan fém csatornák esetén idővel gondot okoz a savas eső, a madárürülék, a tetőre hulló falevelek, a tetőelemekből kioldódó vegyszerek, melyek hatására a bevonatuk sérül, és teret enged a hordozóréteg korróziójának, melynek következtében csöpögés indulhat meg.
                   </p>
-                  <div class="item-subtitle">Építse be a tetőteret! Hívjon minket!</div>
-                  <p>Fontos szempont a tetőtér beépítésénél, hogy milyen tetőteret szeretnének építeni. Legalább ennyire fontos azonban az is, hogy mit lehet családi házuk padlásterében megépíteni. Az épület feltérképezése után Mi ebben segíteni tudunk Önnek!</p>
-                </div>
-                <div class="more-info">
-                  <div class="row">
-                    <div class="col-xl-12">
-                      <div class="more-info-box">
-                        <div class="item-content">
-                          <h2>Lépések</h2>
-                          <ul>
-                            <li>
-                              <div class="sl-number">1</div>
-                              <h4>Ingyenes felmérés</h4>
-                              <p>A felmérés,terepszemle és az ajánlatkészítés is ingyenes</p>
-                            </li>
-                            <li>
-                              <div class="sl-number">2</div>
-                              <h4>Állványzat felállítása és a tetőszéli biztonsági intézkedések megtétele</h4>
-                              <p>A felszerelés általában egy munkahetet vesz igénybe az elejétől a végéig.</p>
-                            </li>
-                            <li>
-                              <div class="sl-number">3</div>
-                              <h4>Régi tetőfedő anyag eltávolítása és elszállítása a helyszínről</h4>
-                              <p>Hogy elkezdhessük a munkánkat, az előző tetőfedő anyagot eltávolítjuk a tetőről, majd elszállítjuk.</p>
-                            </li>
-                            <li>
-                              <div class="sl-number">4</div>
-                              <h4>A tetőalszerkezet ellenőrzése, a felület előkészítése</h4>
-                              <p>Szakambereink leelenőrzik a tetőalszerkezetet, a felületet pedig precízen preparáljuk -  szükség esetén az új tetőtartó keresztrudakat szerelünk fel.</p>
-                            </li>
-                            <li>
-                              <div class="sl-number">5</div>
-                              <h4>A helyszín feltakarítása és az új tető végső vizsgálata</h4>
-                              <p>Természetesen a helyszíni takarítás benne van az árban, és a végső vizsgálatok megtétele után a garancia aláírása.</p>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  <div class="item-subtitle">Veszélyesek az eldugult ereszcsatornák</div>
+                  <p>Nem csupán fárasztó, de veszélyes és nem túl stabil munka az ereszcsatorna takarítása vödör, létra és kefe használatával. Gyakran történik komoly baleset csatornatakarítás közben. </p>
+
+                  <div class="item-subtitle">Előzze meg a baj! Hívjon bátran minket!</div>
+                  <p>Csapatunk szezonálisan vállal eresztisztításokat, professzionális hozzáállásal</p>
                 </div>
                 <div class="item-services">
-            <h3 class="item-title">Előnyök</h3>
-            <div class="service-list">
-            <ul>
-              <li><i class="fas fa-check"></i>A tetőtérben végzett építések növelik ingatlanja értékét</li>
-              <li><i class="fas fa-check"></i>Precíz, gyors munkavégzés</li>
-              <li><i class="fas fa-check"></i>Ha már szűkös otthonuk, és nem engedhetik meg maguknak az új házat, a tetőtér beépítése egy idális alternatíva</li>
-              <li><i class="fas fa-check"></i>Garanciát vállalunk munkánk után</li>
-            </ul>
-            </div>
-            <p></p>
-          </div>                <div class="item-gallery">
+                <h3 class="item-title">Előnyök</h3>
+                <p>Célszerű időközönként ereszcsatorna tisztítását elvégezni, hiszen a nyitott vályúban felgyülemlett levél, moha akadályozza a csapadékvíz elvezetését ami később komoly károkat tud okozni.
+                </p>
+                <div class="service-list">
+                <ul>
+                <li><i class="fas fa-check"></i>Az ereszcsatorna teljeskörű tisztítása</li>
+                <li><i class="fas fa-check"></i>Igény esetén levélrács felszerelése</li>
+                <li><i class="fas fa-check"></i>Teljeskörű garancia
+                </li>
+                </ul>
+                </div>
+                <p></p>
+                </div>
+                <div class="item-gallery">
                   <h3 class="item-title">Nézze meg referencia munkáinkat!</h3>
                   <p>Önnek mit is jelent általában vagy éppen a tetőfelújítás esetén a gazdaságosság?
                     Az első gondolat talán, hogy olcsón megoldható legyen, de már a második minden bizonnyal az lesz, hogy sokáig ne kelljen ismét költeni rá, azaz legyen tartós.

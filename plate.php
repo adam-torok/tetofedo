@@ -18,7 +18,7 @@
         <div class="row">
           <div class="col-12">
             <div class="breadcrumbs-area">
-              <h1>Cseréplemezes tetőfedés</h1>
+              <h1>Állókorcos tetőfedés</h1>
               <ul>
                 <li>
                   <a href="index.html">Kezdőlap</a>
@@ -26,7 +26,7 @@
                 <li>
                   <a href="services.php">Szolgáltatásaink</a>
                 </li>
-                <li>Cseréplemezes tetőfedés</li>
+                <li>Állókorcos tetőfedés</li>
               </ul>
             </div>
           </div>
@@ -38,16 +38,16 @@
         <div class="zoom-gallery-box">
           <div class="tab-content">
             <div class="tab-pane fade show active" id="related1" role="tabpanel">
-              <img class="zoom_01" src="img/references/ref1.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+              <img class="zoom_01" src="img/korcolt.jpg" data-zoom-image="img/korcolt.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related2" role="tabpanel">
-            <img class="zoom_01" src="img/references/ref2.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+            <img class="zoom_01" src="img/korcolt2.jpg" data-zoom-image="img/korcolt2.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related3" role="tabpanel">
-            <img class="zoom_01" src="img/references/ref3.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+            <img class="zoom_01" src="img/korcolt3.jpg" data-zoom-image="img/korcolt3.jpg" alt="service">
             </div>
             <div class="tab-pane fade" id="related4" role="tabpanel">
-            <img class="zoom_01" src="img/references/ref4.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+            <img class="zoom_01" src="img/korcolt4.jpg" data-zoom-image="img/korcolt4.jpg" alt="service">
             </div>
           </div>
           <ul style="display: flex;
@@ -56,22 +56,22 @@
     flex-flow: column;" class="nav nav-tabs tab-nav-list" role="tablist">
             <li class="nav-item">
               <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-                <img style="width: 200px" src="img/references/ref1.jpg" alt="related1">
+                <img style="width: 200px" src="img/korcolt.jpg" alt="Korcolt tető">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/references/ref2.jpg" alt="related1">
+              <img style="width: 200px" src="img/korcolt2.jpg" alt="Korcolt tető">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/references/ref3.jpg" alt="related1">
+              <img style="width: 200px" src="img/korcolt3.jpg" alt="Korcolt tető">
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-              <img style="width: 200px" src="img/references/ref4.jpg" alt="related1">
+              <img style="width: 200px" src="img/korcolt4.jpg" alt="Korcolt tető">
               </a>
             </li>
           </ul>
@@ -82,17 +82,9 @@
               <div class="item-content">
                 <div class="item-info">
 
-                  <div class="item-subtitle">Tetőt keres? Szeretne már végre megszabadulni a régi tető által okozott örökös gondoktól, vagy új házba költözik és teljes tetőrendszerre van szüksége? Akkor jó helyen jár!</div>
-                  <p>Az összeszokott, megbízható, kiválóan szakképzett csapatban dolgozó szakemberekkel végezzük el országszerte a ránk bízott tetőszerelést, felújítást.
+                  <div class="item-subtitle">Az állókorcos tetőfedés technikája kiválóan alkalmas nagy területek fedésére, burkolására. Kitűnő minőségének köszönhetően, bármilyen tetőfelület fedését lehetővé teszi.</div>
+                  <p>Az állókorcos tetőket a modern megjelenés és megbízhatóság jellemzi. Lehetnek egyszeres illetve kétszeres fedésűek is. A modern megjelenésével könnyedséget és szabályosságot ad a tetőnek. Az állókorcos tetőfedés kiválóan alkalmas nagy területek fedésére, burkolására. Remekül bírja a zord időjárási körülményeket és kevés karbantartást igényel.
                   </p>
-                  <div class="item-subtitle">Legyen szó bármilyen tetőről, ha minőségi munkát szeretne kedvező áron, hívjon bátran minket!</div>
-                  <p>A tetőnek az épület szépségét kell kiemelnie. A olyan tetőfedési megoldásokat kínálunk mely a színek, alapanyagok és formák széles választékát kínálja, ezért jól talál bármilyen jellegű építményhez, és összhangba hozható az építészeti stílussal.</p>
-                  <div class="item-subtitle">Tartós, időtálló</div>
-                  <p>A cserepeslemezes tetőfedés sokak szerint az egyik legesztétikusabb és legtartósabb tetőfedő anyag. Megjelenése nagyon hasonlít a hagyományos kerámiára, emellett tartós és időtálló.
-                </p>
-                <p>A cserepeslemezek bevonatuknak köszönhetően nem igényelnek különösebb karbantartást, élettartamuk hosszú: várhatóan <b>40-50 év.</b> Előnye, hogy több fajta felületen és különböző hajlásszögű tetőknél is használható.
-Ahhoz, hogy a cserepeslemezek felhelyezése szakszerű és időtálló legyen, érdemes megbízható és hozzáértő szakemberhez fordulni.
-</p>
                 </div>
                 <div class="more-info">
                   <div class="row">
@@ -134,20 +126,14 @@ Ahhoz, hogy a cserepeslemezek felhelyezése szakszerű és időtálló legyen, 
                 </div>
                 <div class="item-services">
   <h3 class="item-title">Előnyök</h3>
-  <p>Tévhitek keringenek hazánkban a cserepes lemezről, sokan összekeverik a vékonyabb hódfarkú kerítéslemezekkel, melyek bár nagyobb táblákban kaphatók, azonban tartósságuk és alkalmazásuk megkérdőjelezendő.
-A masszív cserepes lemezek rendszerint kisebb blokkokban kerülnek forgalomba, tapintásra is sokkal vastagabbak, mint a hódfarkú típusok, felszínűk nem karcolódik olyan könnyen, és nem kell tartanunk a rozsdásodásuktól sem. Tehát fontos, hogy jó minőségű termékeket válasszunk a minőségi tető kialakításához.
-
-</p>
+    </p>
   <div class="service-list">
   <ul>
-    <li><i class="fas fa-check"></i>
-A cserepes lemez súlya teljesen elenyésző, mindössze 5 kilogramm egyetlen négyzetméteren, és mivel nem szívja magába a vizet, ez még nedvesebb időszakokban sem növekszik meg, tehát a tető terhelése kiegyensúlyozott marad.</li>
-    <li><i class="fas fa-check"></i>A cserepes lemezzel rendkívül könnyedén lehet kalkulálni abban az értelemben, hogy igazán minimális anyagveszteséggel alkalmazható, így akár táblára pontosan kiszámolható, hogy mennyi lemezre lesz szükség.
+    <li><i class="fas fa-check"></i>Az állókorc több féle színben is választható, saját ízlés szerint</li>
+    <li><i class="fas fa-check"></i>Egy átlagos állókorcos tetőfedést körülbelül 4-5 nap alatt végzünk el
 </li>
-    <li><i class="fas fa-check"></i>A nagy blokkokat több helyen is rögzítik a lécekhez, sőt mi több, a vízzáró csavarokkal még egymáshoz is kapcsolódnak, miközben nemcsak a szél, hanem a jégeső sem tud kárt tenni bennük, hiszen nincs olyan nagy szemű jég, ami képes lehet áttörni a vastag lemezt.</li>
-    <li><i class="fas fa-check"></i>A cserepes lemez 6-8 normál cserép méreteinek megfelelő területet fed be.
-</li>
-<li><i class="fas fa-check"></i>A nagy méretből fakadóan szerelhetőségük nagyon gyors, és mivel egyszerű vízzáró csavarokkal rögzülnek, ezért az egyszerűség sem szenved csorbát
+    <li><i class="fas fa-check"></i>Az állókorc nem rozsdásodik, korhad ezáltal garantáltan hosszú élettartamú lesz a tetője!</li>
+    <li><i class="fas fa-check"></i>Teljesen tűzálló, nem gyúlékony anyagból készül
 </li>
   </ul>
   </div>

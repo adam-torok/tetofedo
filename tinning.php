@@ -21,10 +21,10 @@
         <h1>Bádogozás</h1>
         <ul>
         <li>
-          <a href="index.html">Kezdőlap</a>
+          <a href="index.php">Kezdőlap</a>
         </li>
         <li>
-          <a href="service1.html">Szolgáltatásaink</a>
+          <a href="services.php">Szolgáltatásaink</a>
         </li>
         <li>Bádogozás</li>
         </ul>
@@ -38,16 +38,16 @@
     <div class="zoom-gallery-box">
       <div class="tab-content">
       <div class="tab-pane fade show active" id="related1" role="tabpanel">
-        <img class="zoom_01" src="img/references/ref1.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+        <img class="zoom_01" src="img/gutter4.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related2" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref2.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/gutterinstall.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related3" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref3.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/gutter7.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
       </div>
       <div class="tab-pane fade" id="related4" role="tabpanel">
-      <img class="zoom_01" src="img/references/ref4.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
+      <img class="zoom_01" src="img/gutter8.jpg" data-zoom-image="img/references/ref1.jpg" alt="service">
       </div>
       </div>
       <ul style="display: flex;
@@ -56,22 +56,22 @@
   flex-flow: column;" class="nav nav-tabs tab-nav-list" role="tablist">
       <li class="nav-item">
         <a class="nav-link active" data-toggle="tab" href="#related1" role="tab" aria-selected="true">
-        <img style="width: 200px" src="img/references/ref1.jpg" alt="related1">
+        <img style="width: 200px" src="img/gutter4.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related2" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref2.jpg" alt="related1">
+        <img style="width: 200px" src="img/gutterinstall.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related3" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref3.jpg" alt="related1">
+        <img style="width: 200px" src="img/gutter7.jpg" alt="related1">
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" data-toggle="tab" href="#related4" role="tab" aria-selected="false">
-        <img style="width: 200px" src="img/references/ref4.jpg" alt="related1">
+        <img style="width: 200px" src="img/gutter8.jpg" alt="related1">
         </a>
       </li>
       </ul>
@@ -81,11 +81,11 @@
       <div class="single-service-box-layout1">
         <div class="item-content">
         <div class="item-info">
-          <div class="item-subtitle">Tetőt keres? Szeretne már végre megszabadulni a régi tető által okozott örökös gondoktól, vagy új házba költözik és teljes tetőrendszerre van szüksége? Akkor jó helyen jár!</div>
-          <p>Az összeszokott, megbízható, kiválóan szakképzett csapatban dolgozó szakemberekkel végezzük el országszerte a ránk bízott tetőszerelést, felújítást.
+          <div class="item-subtitle">Tetőfelújítások, valamint új tetők építése esetén, a szükséges bádogos munkák kivitelezését vállaljuk. </div>
+          <p>Kiemelt figyelmet fordítunk rá, hogy a tetőszerkezet, vagy épületszerkezet csatlakozási pontjainál vízmentességet biztosítsunk, illetve, hogy a csapadékelvezetést precízen alakítsuk ki.
           </p>
-          <div class="item-subtitle">Legyen szó bármilyen tetőről, ha minőségi munkát szeretne kedvező áron, hívjon bátran minket!</div>
-          <p>A tetőnek az épület szépségét kell kiemelnie. A olyan tetőfedési megoldásokat kínálunk mely a színek, alapanyagok és formák széles választékát kínálja, ezért jól talál bármilyen jellegű építményhez, és összhangba hozható az építészeti stílussal.</p>
+          <div class="item-subtitle">Bádogos szerkezetek javítása</div>
+          <p>Ezen kívül foglalkozunk egyéb bádogos szerkezetek javításával. Abban az esetben, ha szeretné, hogy ezek a szerkezetek ne csak a funkciójukat lássák el tökéletesen, de az épület éke is legyen forduljon hozzánk bizalommal.</p>
         </div>
         <div class="more-info">
           <div class="row">
@@ -125,8 +125,19 @@
           </div>
           </div>
         </div>
-        <?php include_once('components/Benefits.php')?>
-        <div class="item-gallery">
+        <div class="item-services">
+  <h3 class="item-title">Előnyök</h3>
+  <div class="service-list">
+  <ul>
+    <li><i class="fas fa-check"></i>Precíz munkavégzés</li>
+    <li><i class="fas fa-check"></i>Garantált vízmentesség a tetőszerkezet csatlakozási pontjainál!</li>
+    <li><i class="fas fa-check"></i>Esztitékus megjelenés</li>
+    <li><i class="fas fa-check"></i>Tapasztalt brigádunk akár szoros határidőre is képest precíz, megbízható munkát végezni</li>
+    <li><i class="fas fa-check"></i>Garanciavállalás </li>
+  </ul>
+  </div>
+  <p></p>
+</div>        <div class="item-gallery">
           <h3 class="item-title">Nézze meg referencia munkáinkat!</h3>
           <p>Önnek mit is jelent általában vagy éppen a tetőfelújítás esetén a gazdaságosság?
           Az első gondolat talán, hogy olcsón megoldható legyen, de már a második minden bizonnyal az lesz, hogy sokáig ne kelljen ismét költeni rá, azaz legyen tartós.

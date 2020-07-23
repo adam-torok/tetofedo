@@ -30,13 +30,13 @@
                   <a href="roof-patch.php">Cserepes tetőfedés</a>
                 </li>
                 <li>
-                  <a href="#">Állókorcos tetőfedés</a>
+                  <a href="plate.php">Állókorcos tetőfedés</a>
                 </li>
                 <li>
-                  <a href="#">Ereszcsatorna felújítása</a>
+                  <a href="gutter_repair.php">Ereszcsatorna felújítása</a>
                 </li>
                 <li>
-                  <a href="#">Ereszcsatorna tisztítása</a>
+                  <a href="gutter_cleaning.php">Ereszcsatorna tisztítása</a>
                 </li>
                 <li>
                   <a href="tinning.php">Bádogozás</a>
