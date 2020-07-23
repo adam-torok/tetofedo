@@ -5,7 +5,7 @@ use PHPMailer\PHPMailer\Exception;
 require('PHPMailer/Exception.php');
 require('PHPMailer/PHPMailer.php');
 require('PHPMailer/SMTP.php');
-$ourEmail = 'adam-torok@outlook.hu'; // Erre az emailcímre kapjuk meg az üzenetet
+$ourEmail = 'tesztmail'; // Erre az emailcímre kapjuk meg az üzenetet
 if($_SERVER['REQUEST_METHOD'] == 'POST'){
   if(isset($_POST)){
     $email_name = $_POST['email_name'];
@@ -19,8 +19,8 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     $mail->Port = 587;
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->SMTPAuth = true;
-    $mail->Username  = 'adamtorok1999@gmail.com';   //IDe írjunk majd egye dummy gmail fiókot, ami ehez a domainhez járul        
-    $mail->Password  = '6addtehrdk';          
+    $mail->Username  = 'tesztmail@gmail.com';   //IDe írjunk majd egye dummy gmail fiókot, ami ehez a domainhez járul        
+    $mail->Password  = 'tesztmail';          
     $mail->setFrom($email_name);              
     $mail->CharSet = 'UTF-8';
     $mail->Mailer = "smtp";
