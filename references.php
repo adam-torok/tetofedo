@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css">
 <?php include_once("components/Meta.php") ?>
-<body class="sticky-header">
+<body oncontextmenu="return false;" class="sticky-header">
   <a href="#wrapper" data-type="section-switch" class="scrollup">
     <i class="fas fa-angle-double-up"></i>
   </a>

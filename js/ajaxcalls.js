@@ -1,4 +1,5 @@
 var request;
+document.addEventListener('contextmenu', event => event.preventDefault());
 $("#footer__form").submit(function(event){
     event.preventDefault();
     if (request) {

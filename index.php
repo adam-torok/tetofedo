@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="">
 <?php include_once("components/Meta.php")?>
-<body class="sticky-header">
+<body oncontextmenu="return false;" class="sticky-header">
   <a href="#wrapper" data-type="section-switch" class="scrollup">
     <i class="fas fa-angle-double-up"></i>
   </a>
@@ -363,43 +363,6 @@
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="contact-wrap-layout1">
-    <iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.5932312320447!2d19.052230315427234!3d47.497837079177614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dc41d2b5e169%3A0xef31e078a69625ad!2zQnVkYXBlc3QsIERlw6FrIEZlcmVuYyB0w6ly!5e0!3m2!1shu!2shu!4v1595406972352!5m2!1shu!2shu" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>            <div class="contact-box-layout1">
-        <h3 class="item-title">Elérhetőségeink</h3>
-        <div class="media">
-          <div class="item-icon">
-            <i class="fas fa-map-marker-alt"></i>
-          </div>
-          <div class="media-body space-md">
-            <ul>
-              <li>Deák utca 53</li>
-              <li>Budapest</li>
-            </ul>
-          </div>
-        </div>
-        <div class="media">
-          <div class="item-icon">
-            <i class="fas fa-phone-volume"></i>
-          </div>
-          <div class="media-body space-md">
-            <ul>
-              <li>‭+36 20 581 9710‬</li>
-            </ul>
-          </div>
-        </div>
-        <div class="media">
-          <div class="item-icon">
-            <i class="far fa-envelope"></i>
-          </div>
-          <div class="media-body space-md">
-            <ul>
-              <li>csabatetodoki@gmail.com</li>
-            </ul>
           </div>
         </div>
       </div>
